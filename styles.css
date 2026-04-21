@@ -620,7 +620,7 @@ BARRA DE CATEGORÍAS
     .product-grid {
         grid-template-columns: 1fr; /* Mantenemos una columna pero más baja */
         gap: 10px;
-        padding: 10px;
+        padding: 20px;
     }
 
     .product-card {
@@ -633,7 +633,7 @@ BARRA DE CATEGORÍAS
     }
 
     .product-info {
-        width: 65%;
+        width: 50%;
         padding: 8px;
     }
 
@@ -643,7 +643,7 @@ BARRA DE CATEGORÍAS
     }
 
     .product-info p {
-        font-size: 0.75rem;
+        font-size: 0.60rem;
         line-height: 1.1;
         display: -webkit-box;
         -webkit-line-clamp: 2; /* Limita descripción a 2 líneas */
